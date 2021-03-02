@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.cf75007f.chunk.css",
+    "main.js": "/portfolio/static/js/main.4ac22043.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4ac22043.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.a9f76519.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a9f76519.js.map",
+    "static/js/2.9b4a5d6f.chunk.js": "/portfolio/static/js/2.9b4a5d6f.chunk.js",
+    "static/js/2.9b4a5d6f.chunk.js.map": "/portfolio/static/js/2.9b4a5d6f.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.cf75007f.chunk.css.map": "/portfolio/static/css/main.cf75007f.chunk.css.map",
+    "static/js/2.9b4a5d6f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9b4a5d6f.chunk.js.LICENSE.txt",
+    "static/media/about4.bad1d9de.jpg": "/portfolio/static/media/about4.bad1d9de.jpg",
+    "static/media/circle.75ea46ae.png": "/portfolio/static/media/circle.75ea46ae.png",
+    "static/media/design.8ecb3043.svg": "/portfolio/static/media/design.8ecb3043.svg",
+    "static/media/App.scss": "/portfolio/static/media/dots.9978678b.svg",
+    "static/media/emailme.a60657eb.svg": "/portfolio/static/media/emailme.a60657eb.svg",
+    "static/media/game-dev.20147858.svg": "/portfolio/static/media/game-dev.20147858.svg",
+    "static/media/intelligence.11bd2ab2.svg": "/portfolio/static/media/intelligence.11bd2ab2.svg",
+    "static/media/lam.bae11bed.png": "/portfolio/static/media/lam.bae11bed.png",
+    "static/media/location.5cd6776e.svg": "/portfolio/static/media/location.5cd6776e.svg",
+    "static/media/phone.ef86e22a.svg": "/portfolio/static/media/phone.ef86e22a.svg",
+    "static/media/port1.4c7ec318.png": "/portfolio/static/media/port1.4c7ec318.png",
+    "static/media/port2.46b53bd3.png": "/portfolio/static/media/port2.46b53bd3.png",
+    "static/media/port3.1a88ad99.png": "/portfolio/static/media/port3.1a88ad99.png",
+    "static/media/port4.4da514f1.jpg": "/portfolio/static/media/port4.4da514f1.jpg",
+    "static/media/prof.eb54b8b6.jpg": "/portfolio/static/media/prof.eb54b8b6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9f76519.js",
+    "static/js/2.9b4a5d6f.chunk.js",
+    "static/css/main.cf75007f.chunk.css",
+    "static/js/main.4ac22043.chunk.js"
+  ]
+}
